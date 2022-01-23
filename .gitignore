@@ -1,0 +1,6 @@
+SFML/
+.vscode/
+arial.ttf
+main.exe
+main.o
+makefile
